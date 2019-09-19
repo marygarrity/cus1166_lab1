@@ -1,0 +1,11 @@
+Student Name:  Anna     Grade:  71
+Student Name:  Tom     Grade:  70
+Student Name:  John     Grade:  83
+Student Name:  Sam     Grade:  72
+Student Name:  Alex     Grade:  63
+Student Name:  Emma     Grade:  61
+Student Name:  Jack     Grade:  78
+Student Name:  Jane     Grade:  79
+Student Name:  Mark     Grade:  68
+Student Name:  Chris     Grade:  62
+Average grade: 70.7
